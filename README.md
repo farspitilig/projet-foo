@@ -2,3 +2,4 @@
 Mon projet de départ. (Mon horizon : jquery -> javascript -> nodejs -> express -> koa)
 deuxieme modif
 modifié depuis github
+mais aussi depuis ma machine locale
